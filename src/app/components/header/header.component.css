@@ -1,0 +1,85 @@
+.principal {
+  position: fixed;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 120px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.botoes {
+  margin-top: -20px;
+}
+
+.logo {
+  width: 250px;
+  height: 120px;
+}
+
+.lupa {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  margin-left: 1340px;
+  margin-top: 60px;
+}
+
+.usuario {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-left: 1410px;
+  margin-top: 60px;
+}
+.sacola {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-left: 1470px;
+  margin-top: 60px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  margin-top: 70px;
+  margin-left: 80px;
+  width: 2000px;
+}
+
+li {
+  display: inline;
+  min-width: 1em;
+  margin: 0 0.5em;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+a :hover {
+  color: yellow;
+}
+
+hr {
+  border-top: 1px solid black;
+}
+
+strong {
+  color: blue;
+  font-size: 25px;
+}
+
+.strong2 {
+  color: red;
+}
+
+.strong3 {
+  color: darkgoldenrod;
+}

@@ -1,0 +1,137 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: 800px;
+  background-color: DimGray;
+  bottom: 0;
+  margin-top: 1em;
+}
+hr {
+  height: 10vh;
+  width: 0.1vw;
+  border-width: 0;
+
+  background-color: white;
+}
+
+.institucional {
+  width: 200px;
+  margin-left: 500px;
+  margin-top: 70px;
+  color: white;
+}
+
+.inst {
+  margin-left: 10px;
+  margin-top: -60px;
+  color: white;
+}
+
+.inst2 {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: -100px;
+  color: white;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+}
+
+.duvidas {
+  width: 200px;
+  margin-left: 900px;
+  margin-top: -80px;
+  color: white;
+  width: 500px;
+}
+
+.duvidas3 {
+  margin-left: 10px;
+  margin-top: -60px;
+  color: white;
+}
+
+.duvidas2 {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: -100px;
+  color: white;
+}
+
+.conta {
+  width: 200px;
+  margin-left: 1400px;
+  margin-top: -100px;
+  color: white;
+  width: 500px;
+}
+
+.conta3 {
+  margin-left: 10px;
+  margin-top: -80px;
+  color: white;
+}
+
+.conta2 {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: -120px;
+  color: white;
+}
+
+.traco {
+  width: auto;
+  height: 0;
+  margin-top: 120px;
+  margin: 120px;
+  border: 1px solid white;
+}
+
+.c {
+  height: 12vh;
+  width: 0.1vw;
+  border-width: 0;
+  background-color: white;
+}
+
+.cartao {
+  margin-left: 700px;
+  margin-top: -80px;
+}
+
+.atendimento {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.w {
+  position: absolute;
+  margin-left: 280px;
+  margin-top: 77px;
+  width: 30px;
+  height: 30px;
+}
+.B {
+  margin-top: 20px;
+  width: 400px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+.horario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  margin-left: 10px;
+  margin-top: 20px;
+}
